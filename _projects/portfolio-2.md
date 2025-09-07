@@ -1,6 +1,6 @@
 ---
 title: "Crystallography based investigation of non-covalent interactions to design antidiabetic compounds"
-excerpt: "Bachelor Thesis<br/><img src='/images/500x300.png'>"
+excerpt: "Bachelor Thesis<br/><img src='/images/pro2.png'>"
 collection: projects
 ---
 **Crystallography based investigation of non-covalent interactions to design antidiabetic compounds**
