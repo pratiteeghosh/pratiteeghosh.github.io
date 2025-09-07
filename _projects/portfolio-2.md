@@ -1,0 +1,14 @@
+---
+title: "Crystallography based investigation of non-covalent interactions to design antidiabetic compounds"
+excerpt: "Bachelor Thesis<br/><img src='/images/500x300.png'>"
+collection: projects
+---
+**Crystallography based investigation of non-covalent interactions to design antidiabetic compounds**
+Research Assistant,Lady Brabourne College, Kolkata (_Sept 2022 - July 2023_)
+
+**Supervised by Prof. Nayim Sepay**
+- Worked with data of 106 protein-ligand crystal structures of Human Dipeptidyl Peptidase IV by curating from Protein Data Bank and
+studying their bonding structure and active residue sites.
+- Studied protein-small molecule interactions of DPP-4 aimed at identifying potential inhibitors for the treatment of type 2 diabetes.
+
+
