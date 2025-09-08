@@ -26,6 +26,7 @@ B.Sc. (Honors) in Chemistry, University of Calcutta (2020–2024). Currently pur
 Technical Expertise
 ======
 
+
 Programming
 - 🐍 Python — fMRI preprocessing, and analysis pipelines
 - 🧠 MATLAB — Whole-Brain modelling, Signal processing, SPM workflows, and model fitting
@@ -43,15 +44,6 @@ Tools
 - 📊 Excel — quick exploration and reporting
 - 🧫 Discovery Studio — molecular modeling
 - 🧩 Unity — interactive visualization
-
-Programming
-`Python` `MATLAB` `Java` `Fortran`
-
-Neuroimaging
-`SPM` `FSL` `DTIstudio`
-
-Tools
-`Git/GitHub` `Jupyter` `Excel` `Discovery Studio` `Unity`
 
 Data
 Experience with large-scale datasets including the Human Connectome Project (HCP) and ADNI; emphasis on robust preprocessing, QC, and reproducible pipelines.
