@@ -16,11 +16,13 @@ Academic Background
 ======
 ### Master's in Neuroscience | University of Barcelona, Spain (2024-2025)
 Graduate coursework included Neuroimage Analysis, Computational Neuroscience, Advanced Neuroimaging Techniques, and Neurobiology of the Senses. My thesis focused on whole-brain modeling and dynamical analysis in Alzheimer's disease under Prof. Gustavo Deco and Dr. Jakub Vohryzek at Universitat Pompeu Fabra. Applied Hopf bifurcation models and gradient algorithms to derive Generative Effective Connectivity from ADNI data, identifying novel network biomarkers for early disease detection. 
-Explore project → [projects](/projects/project-1)
+
+Explore project → [Master Thesis](/projects/project-1)
 
 ### Bachelor's in Chemistry (Honors) | University of Calcutta, India (2020-2024)
 Undergraduate foundation in chemistry provided quantitative and analytical skills essential for computational neuroscience research. This background has been valuable in understanding molecular-level processes and applying rigorous analytical approaches to biological systems.
-Explore project → [projects](/projects/project-2)
+
+Explore project → [Bachelor Thesis](/projects/project-2)
 
 Technical Expertise
 ======
@@ -46,11 +48,5 @@ Technical Expertise
 **Data**
 
 Experience with large-scale datasets including the Human Connectome Project (HCP) and ADNI; emphasis on robust preprocessing, QC, and reproducible pipelines.
-
-Recent Work
-======
-Developing Generative Effective Connectivity (GEC) matrices from neuroimaging data to characterize directed network dynamics in early Alzheimer’s disease. Prior projects include analyses of BOLD activation patterns, functional connectivity, and a computational drug-design study for diabetes. 
-
-Explore projects → [projects](/projects/)
 
 **Note**: I am actively seeking PhD opportunities in computational neuroscience to further develop my research in computational models and machine learning applications for neuroimaging data analysis. I am particularly interested in programs that combine theoretical modeling with clinical applications and offer opportunities for interdisciplinary collaboration.
