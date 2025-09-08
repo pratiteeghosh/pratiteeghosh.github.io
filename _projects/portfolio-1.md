@@ -1,6 +1,6 @@
 ---
 title: "Whole-Brain Modelling and Whole-Brain Dynamical Analysis in ALZHEIMER’S DISEASE"
-excerpt: "MAster Thesis<br/><img src='/images/GEC_Hopf_ADNI_Slide.png'>"
+excerpt: "MAster Thesis<br/><img src='/images/hopf.png'>"
 collection: projects
 ---
 ** Whole-Brain Modelling and Whole-Brain Dynamical Analysis in ALZHEIMER’S DISEASE**
