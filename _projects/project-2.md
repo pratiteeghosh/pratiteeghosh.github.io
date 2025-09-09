@@ -1,6 +1,6 @@
 ---
 title: "Crystallography based investigation of non-covalent interactions to design antidiabetic compounds"
-excerpt: "<br/><img src='/images/dpp4bg.png'>"
+excerpt: "<br/><img src='/images/ddp4bg.png'>"
 collection: projects
 ---
 **Crystallography based investigation of non-covalent interactions to design antidiabetic compounds**
